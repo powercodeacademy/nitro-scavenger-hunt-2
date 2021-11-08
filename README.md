@@ -38,6 +38,6 @@
 
 ![](vehicle.png)
 
-Unscrable the letters to find the secret phrase when you're finished!
+Unscramble the letters to find the secret phrase when you're finished!
 
 \_ \_ \_ \_ \_ &nbsp;&nbsp; \_ \_ \_ \_ \_ &nbsp;&nbsp; \_ \_ &nbsp;&nbsp; \_ \_ \_
